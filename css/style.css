@@ -244,6 +244,7 @@ header {
     font-size: 60px;
     font-weight: bold;
     text-align: center;
+    position: relative;
 }
 .section-subtitle__dark {
     line-height: 34px;
