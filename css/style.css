@@ -141,7 +141,6 @@ header {
     align-content: center;
 }
  .section-title {
-    width: 60%;
     margin: 100px 0 20px 0;
     display: flex;
     justify-content: center;
@@ -150,7 +149,6 @@ header {
     font-weight: bold;
  }
  .section-subtitle {
-    width: 60%;
     line-height: 34px;
     font-size: 24px;
     display: flex;
