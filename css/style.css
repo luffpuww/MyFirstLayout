@@ -360,4 +360,5 @@ a {
 .column-link {
     display: flex;
     align-items: center;
+    color: #f2f2f2;
 }
